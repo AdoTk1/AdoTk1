@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdoTk1
 - 👀 I’m interested in ...becoming a frontend developer.
 - 🌱 I’m currently learning ...css.
-- 💞️ I’m looking to collaborate on ...senior frontend developer to coach me through.
+- 💞️ currently looking for a mentor to look up to.
 - 📫 How to reach me ...watsapp-+2349097714528
 
 <!---
